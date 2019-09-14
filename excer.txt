@@ -1,0 +1,17 @@
+string
+----
+palindrome 
+lenght 
+reverse
+split and join string
+check for url in string
+
+
+dictnrty
+-------
+merg 2
+
+list
+-----
+print smallest num
+print largest num
